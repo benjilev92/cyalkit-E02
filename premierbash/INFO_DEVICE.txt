@@ -1,0 +1,3 @@
+[0;94m[bluetooth][0m# info 00:A0:50:29:34:D5
+Device 00:A0:50:29:34:D5 not available
+[0;94m[bluetooth][0m# scan off

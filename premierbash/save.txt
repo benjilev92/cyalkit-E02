@@ -1,0 +1,996 @@
+        RSSI: -87 dBm (0xa9)
+        Flags: 0x00000000
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 0b104860d2
+> HCI Event: LE Meta Event (0x3e) plen 19                                                                                                                                            [hci0] 50.157691
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 2C:26:17:01:C3:F4 (OUI 2C-26-17)
+        Data length: 7
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Facebook, Inc. (0xfeb8)
+        RSSI: -93 dBm (0xa3)
+> HCI Event: LE Meta Event (0x3e) plen 30                                                                                                                                            [hci0] 50.423238
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Public (0x00)
+        Address: 2C:26:17:01:C3:F4 (OUI 2C-26-17)
+        Data length: 18
+        Company: not assigned (1422)
+          Data: 314b575048383131374238313036
+        RSSI: -92 dBm (0xa4)
+@ MGMT Event: Device Found (0x0012) plen 39                                                                                                                                 {0x0002} [hci0] 50.423281
+        LE Address: 2C:26:17:01:C3:F4 (OUI 2C-26-17)
+        RSSI: -92 dBm (0xa4)
+        Flags: 0x00000000
+        Data length: 25
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Facebook, Inc. (0xfeb8)
+        Company: not assigned (1422)
+          Data: 314b575048383131374238313036
+@ MGMT Event: Device Found (0x0012) plen 39                                                                                                                                 {0x0001} [hci0] 50.423281
+        LE Address: 2C:26:17:01:C3:F4 (OUI 2C-26-17)
+        RSSI: -92 dBm (0xa4)
+        Flags: 0x00000000
+        Data length: 25
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Facebook, Inc. (0xfeb8)
+        Company: not assigned (1422)
+          Data: 314b575048383131374238313036
+> HCI Event: LE Meta Event (0x3e) plen 42                                                                                                                                            [hci0] 50.610068
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe636cc3
+        RSSI: -74 dBm (0xb6)
+@ MGMT Event: Device Found (0x0012) plen 44                                                                                                                                 {0x0002} [hci0] 50.610110
+        LE Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        RSSI: -74 dBm (0xb6)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe636cc3
+@ MGMT Event: Device Found (0x0012) plen 44                                                                                                                                 {0x0001} [hci0] 50.610110
+        LE Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        RSSI: -74 dBm (0xb6)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe636cc3
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 52.414685
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: EB:B6:D2:50:3C:20 (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+        RSSI: -79 dBm (0xb1)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 52.415259
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: EB:B6:D2:50:3C:20 (Static)
+        Data length: 0
+        RSSI: -79 dBm (0xb1)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 52.415297
+        LE Address: EB:B6:D2:50:3C:20 (Static)
+        RSSI: -79 dBm (0xb1)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 52.415297
+        LE Address: EB:B6:D2:50:3C:20 (Static)
+        RSSI: -79 dBm (0xb1)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 52.506720
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: C4:5E:AB:6D:7C:3F (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+        RSSI: -83 dBm (0xad)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 52.507031
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: C4:5E:AB:6D:7C:3F (Static)
+        Data length: 0
+        RSSI: -83 dBm (0xad)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 52.507068
+        LE Address: C4:5E:AB:6D:7C:3F (Static)
+        RSSI: -83 dBm (0xad)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 52.507068
+        LE Address: C4:5E:AB:6D:7C:3F (Static)
+        RSSI: -83 dBm (0xad)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2                                                                                                                               [hci0] 53.982513
+        Scanning: Disabled (0x00)
+        Filter duplicates: Disabled (0x00)
+> HCI Event: Command Complete (0x0e) plen 4                                                                                                                                          [hci0] 53.984274
+      LE Set Scan Enable (0x08|0x000c) ncmd 1
+        Status: Success (0x00)
+< HCI Command: Inquiry (0x01|0x0001) plen 5                                                                                                                                          [hci0] 53.984374
+        Access code: 0x9e8b33 (General Inquiry)
+        Length: 5.12s (0x04)
+        Num responses: 0
+> HCI Event: Command Status (0x0f) plen 4                                                                                                                                            [hci0] 53.984839
+      Inquiry (0x01|0x0001) ncmd 1
+        Status: Success (0x00)
+> HCI Event: Extended Inquiry Result (0x2f) plen 255                                                                                                                                 [hci0] 54.758929
+        Num responses: 1
+        Address: C4:86:E9:CE:A6:58 (HUAWEI TECHNOLOGIES CO.,LTD)
+        Page scan repetition mode: R1 (0x01)
+        Page period mode: P0 (0x00)
+        Class: 0x5a020c
+          Major class: Phone (cellular, cordless, payphone, modem)
+          Minor class: Smart phone
+          Networking (LAN, Ad hoc)
+          Capturing (Scanner, Microphone)
+          Object Transfer (v-Inbox, v-Folder)
+          Telephony (Cordless telephony, Modem, Headset)
+        Clock offset: 0x7528
+        RSSI: -97 dBm (0x9f)
+@ MGMT Event: Device Found (0x0012) plen 19                                                                                                                                 {0x0002} [hci0] 54.758994
+        BR/EDR Address: C4:86:E9:CE:A6:58 (HUAWEI TECHNOLOGIES CO.,LTD)
+        RSSI: -97 dBm (0x9f)
+        Flags: 0x00000001
+          Confirm Name
+        Data length: 5
+        Class: 0x5a020c
+          Major class: Phone (cellular, cordless, payphone, modem)
+          Minor class: Smart phone
+          Networking (LAN, Ad hoc)
+          Capturing (Scanner, Microphone)
+          Object Transfer (v-Inbox, v-Folder)
+          Telephony (Cordless telephony, Modem, Headset)
+@ MGMT Event: Device Found (0x0012) plen 19                                                                                                                                 {0x0001} [hci0] 54.758994
+        BR/EDR Address: C4:86:E9:CE:A6:58 (HUAWEI TECHNOLOGIES CO.,LTD)
+        RSSI: -97 dBm (0x9f)
+        Flags: 0x00000001
+          Confirm Name
+        Data length: 5
+        Class: 0x5a020c
+          Major class: Phone (cellular, cordless, payphone, modem)
+          Minor class: Smart phone
+          Networking (LAN, Ad hoc)
+          Capturing (Scanner, Microphone)
+          Object Transfer (v-Inbox, v-Folder)
+          Telephony (Cordless telephony, Modem, Headset)
+@ MGMT Command: Confirm Name (0x0025) plen 8                                                                                                                                {0x0001} [hci0] 54.763375
+        BR/EDR Address: C4:86:E9:CE:A6:58 (HUAWEI TECHNOLOGIES CO.,LTD)
+        Name known: Yes (0x01)
+@ MGMT Event: Command Complete (0x0001) plen 10                                                                                                                             {0x0001} [hci0] 54.763405
+      Confirm Name (0x0025) plen 7
+        Status: Success (0x00)
+        BR/EDR Address: C4:86:E9:CE:A6:58 (HUAWEI TECHNOLOGIES CO.,LTD)
+> HCI Event: Inquiry Complete (0x01) plen 1                                                                                                                                          [hci0] 59.109367
+        Status: Success (0x00)
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0002} [hci0] 59.109434
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Disabled (0x00)
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0001} [hci0] 59.109434
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Disabled (0x00)
+@ MGMT Command: Start Discovery (0x0023) plen 1                                                                                                                             {0x0001} [hci0] 64.358237
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+< HCI Command: LE Set Random Address (0x08|0x0005) plen 6                                                                                                                            [hci0] 64.358349
+        Address: 31:D5:59:B5:5C:12 (Non-Resolvable)
+> HCI Event: Command Complete (0x0e) plen 4                                                                                                                                          [hci0] 64.358831
+      LE Set Random Address (0x08|0x0005) ncmd 1
+        Status: Success (0x00)
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7                                                                                                                           [hci0] 64.358890
+        Type: Active (0x01)
+        Interval: 11.250 msec (0x0012)
+        Window: 11.250 msec (0x0012)
+        Own address type: Random (0x01)
+        Filter policy: Accept all advertisement (0x00)
+> HCI Event: Command Complete (0x0e) plen 4                                                                                                                                          [hci0] 64.359319
+      LE Set Scan Parameters (0x08|0x000b) ncmd 1
+        Status: Success (0x00)
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2                                                                                                                               [hci0] 64.359363
+        Scanning: Enabled (0x01)
+        Filter duplicates: Enabled (0x01)
+> HCI Event: Command Complete (0x0e) plen 4                                                                                                                                          [hci0] 64.359854
+      LE Set Scan Enable (0x08|0x000c) ncmd 1
+        Status: Success (0x00)
+@ MGMT Event: Command Complete (0x0001) plen 4                                                                                                                              {0x0001} [hci0] 64.359916
+      Start Discovery (0x0023) plen 1
+        Status: Success (0x00)
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0002} [hci0] 64.359931
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Enabled (0x01)
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0001} [hci0] 64.359931
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Enabled (0x01)
+> HCI Event: LE Meta Event (0x3e) plen 22                                                                                                                                            [hci0] 64.388005
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Random (0x01)
+        Address: 0D:23:5C:D5:1C:B4 (Non-Resolvable)
+        Data length: 10
+        Flags: 0x1b
+          LE Limited Discoverable Mode
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (10)
+          Data: 00
+        RSSI: -76 dBm (0xb4)
+@ MGMT Event: Device Found (0x0012) plen 24                                                                                                                                 {0x0002} [hci0] 64.388071
+        LE Address: 0D:23:5C:D5:1C:B4 (Non-Resolvable)
+        RSSI: -76 dBm (0xb4)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 10
+        Flags: 0x1b
+          LE Limited Discoverable Mode
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (10)
+          Data: 00
+@ MGMT Event: Device Found (0x0012) plen 24                                                                                                                                 {0x0001} [hci0] 64.388071
+        LE Address: 0D:23:5C:D5:1C:B4 (Non-Resolvable)
+        RSSI: -76 dBm (0xb4)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 10
+        Flags: 0x1b
+          LE Limited Discoverable Mode
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (10)
+          Data: 00
+> HCI Event: LE Meta Event (0x3e) plen 43                                                                                                                                            [hci0] 64.402779
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Random (0x01)
+        Address: 1D:CB:C1:C8:C4:6F (Non-Resolvable)
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 01092000b2ec7d21c15ce0faefbe3114a8555ceee96244595bf46c
+        RSSI: -94 dBm (0xa2)
+@ MGMT Event: Device Found (0x0012) plen 45                                                                                                                                 {0x0002} [hci0] 64.402862
+        LE Address: 1D:CB:C1:C8:C4:6F (Non-Resolvable)
+        RSSI: -94 dBm (0xa2)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 01092000b2ec7d21c15ce0faefbe3114a8555ceee96244595bf46c
+@ MGMT Event: Device Found (0x0012) plen 45                                                                                                                                 {0x0001} [hci0] 64.402862
+        LE Address: 1D:CB:C1:C8:C4:6F (Non-Resolvable)
+        RSSI: -94 dBm (0xa2)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 01092000b2ec7d21c15ce0faefbe3114a8555ceee96244595bf46c
+> HCI Event: LE Meta Event (0x3e) plen 26                                                                                                                                            [hci0] 64.432676
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: 74:7F:AB:02:62:E1 (Resolvable)
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 07104860d2
+        RSSI: -88 dBm (0xa8)
+> HCI Event: LE Meta Event (0x3e) plen 43                                                                                                                                            [hci0] 64.464500
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Random (0x01)
+        Address: 12:D1:AF:45:55:AC (Non-Resolvable)
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 010920006def9d09bdd96b440caa79e4c96d67400d3f1b6eeb7882
+        RSSI: -88 dBm (0xa8)
+@ MGMT Event: Device Found (0x0012) plen 28                                                                                                                                 {0x0002} [hci0] 64.464580
+        LE Address: 74:7F:AB:02:62:E1 (Resolvable)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000000
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 07104860d2
+@ MGMT Event: Device Found (0x0012) plen 28                                                                                                                                 {0x0001} [hci0] 64.464580
+        LE Address: 74:7F:AB:02:62:E1 (Resolvable)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000000
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 07104860d2
+@ MGMT Event: Device Found (0x0012) plen 45                                                                                                                                 {0x0002} [hci0] 64.464627
+        LE Address: 12:D1:AF:45:55:AC (Non-Resolvable)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 010920006def9d09bdd96b440caa79e4c96d67400d3f1b6eeb7882
+@ MGMT Event: Device Found (0x0012) plen 45                                                                                                                                 {0x0001} [hci0] 64.464627
+        LE Address: 12:D1:AF:45:55:AC (Non-Resolvable)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 31
+        Company: Microsoft (6)
+          Data: 010920006def9d09bdd96b440caa79e4c96d67400d3f1b6eeb7882
+> HCI Event: LE Meta Event (0x3e) plen 30                                                                                                                                            [hci0] 64.550946
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: F0:C7:7F:89:3F:98 (Texas Instruments)
+        Data length: 18
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        Company: Texas Instruments Inc. (13)
+          Data: 050002010226070000064d
+        RSSI: -84 dBm (0xac)
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 64.551744
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Public (0x00)
+        Address: F0:C7:7F:89:3F:98 (Texas Instruments)
+        Data length: 26
+        Slave Conn. Interval: 0x0019 - 0x001e
+        TX power: 0 dBm
+        Name (complete): BeeWi SmartClim
+        RSSI: -85 dBm (0xab)
+@ MGMT Event: Device Found (0x0012) plen 58                                                                                                                                 {0x0002} [hci0] 64.551769
+        LE Address: F0:C7:7F:89:3F:98 (Texas Instruments)
+        RSSI: -85 dBm (0xab)
+        Flags: 0x00000000
+        Data length: 44
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        Company: Texas Instruments Inc. (13)
+          Data: 050002010226070000064d
+        Slave Conn. Interval: 0x0019 - 0x001e
+        TX power: 0 dBm
+        Name (complete): BeeWi SmartClim
+@ MGMT Event: Device Found (0x0012) plen 58                                                                                                                                 {0x0001} [hci0] 64.551769
+        LE Address: F0:C7:7F:89:3F:98 (Texas Instruments)
+        RSSI: -85 dBm (0xab)
+        Flags: 0x00000000
+        Data length: 44
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        Company: Texas Instruments Inc. (13)
+          Data: 050002010226070000064d
+        Slave Conn. Interval: 0x0019 - 0x001e
+        TX power: 0 dBm
+        Name (complete): BeeWi SmartClim
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 64.642323
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: D6:58:55:7C:86:6D (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 6d867c5558d6
+        RSSI: -74 dBm (0xb6)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 64.642632
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: D6:58:55:7C:86:6D (Static)
+        Data length: 0
+        RSSI: -74 dBm (0xb6)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 64.642656
+        LE Address: D6:58:55:7C:86:6D (Static)
+        RSSI: -74 dBm (0xb6)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 6d867c5558d6
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 64.642656
+        LE Address: D6:58:55:7C:86:6D (Static)
+        RSSI: -74 dBm (0xb6)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 6d867c5558d6
+> HCI Event: LE Meta Event (0x3e) plen 33                                                                                                                                            [hci0] 64.674865
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 04:52:C7:5D:44:7A (Bose Corporation)
+        Data length: 21
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Bose Corporation (0xfebe)
+        Company: SGL Italia S.r.l. (784)
+          Data: 400c01514098adacafec
+        RSSI: -79 dBm (0xb1)
+> HCI Event: LE Meta Event (0x3e) plen 26                                                                                                                                            [hci0] 64.675495
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Public (0x00)
+        Address: 04:52:C7:5D:44:7A (Bose Corporation)
+        Data length: 14
+        TX power: 4 dBm
+        Name (complete): LE-Casque
+        RSSI: -79 dBm (0xb1)
+@ MGMT Event: Device Found (0x0012) plen 49                                                                                                                                 {0x0002} [hci0] 64.675547
+        LE Address: 04:52:C7:5D:44:7A (Bose Corporation)
+        RSSI: -79 dBm (0xb1)
+        Flags: 0x00000000
+        Data length: 35
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Bose Corporation (0xfebe)
+        Company: SGL Italia S.r.l. (784)
+          Data: 400c01514098adacafec
+        TX power: 4 dBm
+        Name (complete): LE-Casque
+@ MGMT Event: Device Found (0x0012) plen 49                                                                                                                                 {0x0001} [hci0] 64.675547
+        LE Address: 04:52:C7:5D:44:7A (Bose Corporation)
+        RSSI: -79 dBm (0xb1)
+        Flags: 0x00000000
+        Data length: 35
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        16-bit Service UUIDs (complete): 1 entry
+          Bose Corporation (0xfebe)
+        Company: SGL Italia S.r.l. (784)
+          Data: 400c01514098adacafec
+        TX power: 4 dBm
+        Name (complete): LE-Casque
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 64.930209
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: EB:B6:D2:50:3C:20 (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+        RSSI: -84 dBm (0xac)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 64.930480
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: EB:B6:D2:50:3C:20 (Static)
+        Data length: 0
+        RSSI: -84 dBm (0xac)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 64.930502
+        LE Address: EB:B6:D2:50:3C:20 (Static)
+        RSSI: -84 dBm (0xac)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 64.930502
+        LE Address: EB:B6:D2:50:3C:20 (Static)
+        RSSI: -84 dBm (0xac)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 203c50d2b6eb
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 65.047035
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: C4:5E:AB:6D:7C:3F (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+        RSSI: -92 dBm (0xa4)
+> HCI Event: LE Meta Event (0x3e) plen 39                                                                                                                                            [hci0] 65.214885
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: D1:F5:B4:A7:C6:56 (Static)
+        Data length: 27
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        128-bit Service UUIDs (partial): 1 entry
+          Vendor specific (adab04a3-6e7d-4601-bda2-bffaa68956ba)
+        Service Data (UUID 0x180a): 0504
+        RSSI: -84 dBm (0xac)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 65.214938
+        LE Address: C4:5E:AB:6D:7C:3F (Static)
+        RSSI: -92 dBm (0xa4)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 65.214938
+        LE Address: C4:5E:AB:6D:7C:3F (Static)
+        RSSI: -92 dBm (0xa4)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 3f7c6dab5ec4
+> HCI Event: LE Meta Event (0x3e) plen 20                                                                                                                                            [hci0] 65.215333
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: D1:F5:B4:A7:C6:56 (Static)
+        Data length: 8
+        Name (complete): One
+        TX power: -6 dBm
+        RSSI: -84 dBm (0xac)
+@ MGMT Event: Device Found (0x0012) plen 49                                                                                                                                 {0x0002} [hci0] 65.215360
+        LE Address: D1:F5:B4:A7:C6:56 (Static)
+        RSSI: -84 dBm (0xac)
+        Flags: 0x00000000
+        Data length: 35
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        128-bit Service UUIDs (partial): 1 entry
+          Vendor specific (adab04a3-6e7d-4601-bda2-bffaa68956ba)
+        Service Data (UUID 0x180a): 0504
+        Name (complete): One
+        TX power: -6 dBm
+@ MGMT Event: Device Found (0x0012) plen 49                                                                                                                                 {0x0001} [hci0] 65.215360
+        LE Address: D1:F5:B4:A7:C6:56 (Static)
+        RSSI: -84 dBm (0xac)
+        Flags: 0x00000000
+        Data length: 35
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        128-bit Service UUIDs (partial): 1 entry
+          Vendor specific (adab04a3-6e7d-4601-bda2-bffaa68956ba)
+        Service Data (UUID 0x180a): 0504
+        Name (complete): One
+        TX power: -6 dBm
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 65.250135
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: 74:7F:AB:02:62:E1 (Resolvable)
+        Data length: 0
+        RSSI: -89 dBm (0xa7)
+@ MGMT Event: Device Found (0x0012) plen 14                                                                                                                                 {0x0002} [hci0] 65.250229
+        LE Address: 74:7F:AB:02:62:E1 (Resolvable)
+        RSSI: -89 dBm (0xa7)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 0
+@ MGMT Event: Device Found (0x0012) plen 14                                                                                                                                 {0x0001} [hci0] 65.250229
+        LE Address: 74:7F:AB:02:62:E1 (Resolvable)
+        RSSI: -89 dBm (0xa7)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 0
+> HCI Event: LE Meta Event (0x3e) plen 26                                                                                                                                            [hci0] 65.826650
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: 58:6D:FE:DD:46:75 (Resolvable)
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 0310d71ade
+        RSSI: -91 dBm (0xa5)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 65.827259
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: 58:6D:FE:DD:46:75 (Resolvable)
+        Data length: 0
+        RSSI: -90 dBm (0xa6)
+@ MGMT Event: Device Found (0x0012) plen 28                                                                                                                                 {0x0002} [hci0] 65.827285
+        LE Address: 58:6D:FE:DD:46:75 (Resolvable)
+        RSSI: -90 dBm (0xa6)
+        Flags: 0x00000000
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 0310d71ade
+@ MGMT Event: Device Found (0x0012) plen 28                                                                                                                                 {0x0001} [hci0] 65.827285
+        LE Address: 58:6D:FE:DD:46:75 (Resolvable)
+        RSSI: -90 dBm (0xa6)
+        Flags: 0x00000000
+        Data length: 14
+        Flags: 0x1a
+          LE General Discoverable Mode
+          Simultaneous LE and BR/EDR (Controller)
+          Simultaneous LE and BR/EDR (Host)
+        Company: Apple, Inc. (76)
+          Type: Unknown (16)
+          Data: 0310d71ade
+> HCI Event: LE Meta Event (0x3e) plen 42                                                                                                                                            [hci0] 65.847575
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 2C:26:17:09:8B:AD (OUI 2C-26-17)
+        Data length: 30
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Device Information (0x180a)
+        128-bit Service UUIDs (complete): 1 entry
+          Vendor specific (81265652-3692-ae93-e711-270f223c83b3)
+        Company: not assigned (1422)
+          Data: 01
+        RSSI: -88 dBm (0xa8)
+> HCI Event: LE Meta Event (0x3e) plen 23                                                                                                                                            [hci0] 65.848050
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Public (0x00)
+        Address: 2C:26:17:09:8B:AD (OUI 2C-26-17)
+        Data length: 11
+        Name (complete): OMVR-V190
+        RSSI: -88 dBm (0xa8)
+@ MGMT Event: Device Found (0x0012) plen 55                                                                                                                                 {0x0002} [hci0] 65.848083
+        LE Address: 2C:26:17:09:8B:AD (OUI 2C-26-17)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000000
+        Data length: 41
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Device Information (0x180a)
+        128-bit Service UUIDs (complete): 1 entry
+          Vendor specific (81265652-3692-ae93-e711-270f223c83b3)
+        Company: not assigned (1422)
+          Data: 01
+        Name (complete): OMVR-V190
+@ MGMT Event: Device Found (0x0012) plen 55                                                                                                                                 {0x0001} [hci0] 65.848083
+        LE Address: 2C:26:17:09:8B:AD (OUI 2C-26-17)
+        RSSI: -88 dBm (0xa8)
+        Flags: 0x00000000
+        Data length: 41
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Device Information (0x180a)
+        128-bit Service UUIDs (complete): 1 entry
+          Vendor specific (81265652-3692-ae93-e711-270f223c83b3)
+        Company: not assigned (1422)
+          Data: 01
+        Name (complete): OMVR-V190
+> HCI Event: LE Meta Event (0x3e) plen 38                                                                                                                                            [hci0] 65.957346
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Random (0x01)
+        Address: EF:78:35:14:FD:9D (Static)
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 9dfd143578ef
+        RSSI: -80 dBm (0xb0)
+> HCI Event: LE Meta Event (0x3e) plen 12                                                                                                                                            [hci0] 65.957777
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Random (0x01)
+        Address: EF:78:35:14:FD:9D (Static)
+        Data length: 0
+        RSSI: -80 dBm (0xb0)
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0002} [hci0] 65.957798
+        LE Address: EF:78:35:14:FD:9D (Static)
+        RSSI: -80 dBm (0xb0)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 9dfd143578ef
+@ MGMT Event: Device Found (0x0012) plen 40                                                                                                                                 {0x0001} [hci0] 65.957798
+        LE Address: EF:78:35:14:FD:9D (Static)
+        RSSI: -80 dBm (0xb0)
+        Flags: 0x00000000
+        Data length: 26
+        Name (complete): tkr
+        Appearance: Keyring (0x0240)
+        Flags: 0x06
+          LE General Discoverable Mode
+          BR/EDR Not Supported
+        16-bit Service UUIDs (complete): 1 entry
+          Unknown (0x0f3e)
+        Company: Ericsson Technology Licensing (0)
+          Data: 9dfd143578ef
+> HCI Event: LE Meta Event (0x3e) plen 42                                                                                                                                            [hci0] 66.439674
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe626cc3
+        RSSI: -76 dBm (0xb4)
+@ MGMT Event: Device Found (0x0012) plen 44                                                                                                                                 {0x0002} [hci0] 66.439729
+        LE Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        RSSI: -76 dBm (0xb4)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe626cc3
+@ MGMT Event: Device Found (0x0012) plen 44                                                                                                                                 {0x0001} [hci0] 66.439729
+        LE Address: 00:A0:50:29:34:D5 (CYPRESS SEMICONDUCTOR)
+        RSSI: -76 dBm (0xb4)
+        Flags: 0x00000004
+          Not Connectable
+        Data length: 30
+        Flags: 0x04
+          BR/EDR Not Supported
+        Company: internal use (65535)
+          Data: 02150005000100001000800000805f9b0131bebe626cc3
+@ MGMT Command: Stop Discovery (0x0024) plen 1                                                                                                                              {0x0001} [hci0] 66.876446
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2                                                                                                                               [hci0] 66.876559
+        Scanning: Disabled (0x00)
+        Filter duplicates: Disabled (0x00)
+> HCI Event: Command Complete (0x0e) plen 4                                                                                                                                          [hci0] 66.878846
+      LE Set Scan Enable (0x08|0x000c) ncmd 1
+        Status: Success (0x00)
+@ MGMT Event: Command Complete (0x0001) plen 4                                                                                                                              {0x0001} [hci0] 66.878945
+      Stop Discovery (0x0024) plen 1
+        Status: Success (0x00)
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0002} [hci0] 66.878968
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Disabled (0x00)
+@ MGMT Event: Discovering (0x0013) plen 2                                                                                                                                   {0x0001} [hci0] 66.878968
+        Address type: 0x07
+          BR/EDR
+          LE Public
+          LE Random
+        Discovery: Disabled (0x00)

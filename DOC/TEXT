@@ -1,0 +1,1307 @@
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:68:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:68:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -34
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -33
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -35
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -49
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -34
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -36
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -33
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -35
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -36
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -33
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:88:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -50
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -48
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -51
+HCI Event:
+    code:
+        3e
+    length:
+        42
+    LE Meta:
+        code:
+            02
+        Adv Report:
+            num reports:
+                1
+            ev type:
+                no connection adv
+            addr type:
+                public
+            peer:
+                00:a0:50:17:1f:1d
+            length:
+                30
+            flags:
+                Simul LE - BR/EDR (Host): False
+                Simul LE - BR/EDR (Control.): False
+                BR/EDR Not Supported: False
+                LE General Disc.: True
+                LE Limited Disc.: False
+            Payload for mfg_specific_data:
+                4c:00:02:15:00:05:00:01:00:00:10:00:80:00:00:80:5f:9b:01:31:eb:eb:87:69:c3
+            rssi:
+                -50
+keyboard interrupt
+closing event loop

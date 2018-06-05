@@ -1,0 +1,2 @@
+	ManufacturerData Value: 0x7f
+	ManufacturerData Value: 0x6a

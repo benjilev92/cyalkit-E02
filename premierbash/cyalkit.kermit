@@ -1,0 +1,10 @@
+set line /dev/ttyACM0
+set speed 115200
+set handshake none
+set flow-control none
+set carrier-watch off
+set local-echo on
+set terminal newline-mode on
+connect
+quit
+EOF

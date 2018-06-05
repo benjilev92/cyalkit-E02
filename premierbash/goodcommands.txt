@@ -1,0 +1,10 @@
+sudo btmon | grep -A20 'CYPRESS'
+sudo btmon | grep -A30 'Address type: Public (0x00)'
+sudo btmon | grep -B10 'bebe'
+
+
+MAC ADDR BEBE 00:A0:50:29:34:D5
+
+
+tmux new-session -d -s ServerFault 'sudo bluetoothctl -a |& tee /run/shm/BLUETOOTH_OUTPUT'
+tmux send-keys -t ServerFault -l 'info 00:A0:50:29:34:D5'

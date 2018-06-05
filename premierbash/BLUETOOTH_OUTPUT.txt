@@ -1,0 +1,14 @@
+[0;94m[bluetooth][0m# info 00:A0:50:29:34:D5
+Device 00:A0:50:29:34:D5 not available
+[0;94m[bluetooth][0m# scan off
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device 60:EC:6C:64:BB:1A RSSI is nil
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device 5F:A5:33:62:63:94 RSSI is nil
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device EB:B6:D2:50:3C:20 RSSI is nil
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device F0:C7:7F:89:3F:98 TxPower is nil
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device F0:C7:7F:89:3F:98 RSSI is nil
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device 43:9A:D4:54:52:45 RSSI is nil
+[0;94m[bluetooth][0m# [KDiscovery stopped
+[0;94m[bluetooth][0m# exit
+[0;94m[bluetooth][0m# [KAgent unregistered
+[0;94m[bluetooth][0m# [K[[0;91mDEL[0m] Controller B8:27:EB:3C:19:63 raspberrypi [default]
+[0;94m[bluetooth][0m# Waiting to connect to bluetoothd...[K

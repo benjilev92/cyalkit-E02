@@ -1,0 +1,4 @@
+sudo python3.5 -m aioblescan | grep 00:a0:50:29:34:d5 -a20 -b20
+
+00:A0:50:29:34:D5
+00:A0:50:17:1F:1D
